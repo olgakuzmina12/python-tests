@@ -87,3 +87,15 @@ ENV/
 
 # Rope project settings
 .ropeproject
+
+
+# idea
+.idea/workspace.xml
+.idea/tasks.xml
+.idea/
+*.iws
+
+./features/screenshots/
+screenshots/
+
+*.log
